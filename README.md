@@ -13,3 +13,4 @@ It allows you to:
 It's free, open source, does not require an internet connection, and no data is collected.
 The app is available on the Google Store
 
+[![Astrassyst](https://github.com/gbegreg/Astrassyst/blob/main/img/astrassyst.jpg)]
